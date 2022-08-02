@@ -6,8 +6,8 @@ import HomePage from "./Files/home";
 function App() {
   return (
     <div>
-      <NavBar></NavBar>
-      <HomePage></HomePage>
+      <NavBar />
+      <HomePage />
     </div>
   );
 }
